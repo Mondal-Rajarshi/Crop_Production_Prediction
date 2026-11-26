@@ -1,6 +1,5 @@
 # Cultivated-Area Dependency in Machine Learning-Based Crop Production Prediction
 
-**Course:** Research Paper DWDM [F07] - Summer 2025-26
 
 A machine learning study exploring how much cultivated area contributes to crop production prediction in Bangladesh, and how prediction performance changes when area information is unavailable.
 
